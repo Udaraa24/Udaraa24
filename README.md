@@ -2,10 +2,10 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6,1E3A8A&height=220&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3bb1f6,1E3A8A&height=220&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Hey+there%2C+I'm+Udara+Bandara+👋;AI+%2F+ML+Engineer+%7C+Sri+Lanka+🇱🇰;Agentic+AI+%7C+LLMs+%7C+Voice+Automation;Open+to+Full-Time+AI+%2F+ML+Roles+🚀;Let's+Build+Something+Intelligent+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Hey+there%2C+Building+end-to-end AI+systems+—+from+data+and+models+to+intelligent,+production-ready+applications+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,16 +23,9 @@
 <!-- Info Badges -->
 ![Location](https://img.shields.io/badge/📍_Sri_Lanka-0EA5E9?style=flat-square)
 &nbsp;&nbsp;
-![University](https://img.shields.io/badge/🎓_University_of_Moratuwa-GPA_3.62-1D4ED8?style=flat-square)
+![University](https://img.shields.io/badge/🎓_University_of_Moratuwa-1D4ED8?style=flat-square)
 &nbsp;&nbsp;
 ![Degree](https://img.shields.io/badge/🤖_B.Sc._Hons-Artificial_Intelligence-3B82F6?style=flat-square)
-
-<br/><br/>
-
-<!-- Tech Stack Quick Icons -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,mongodb,azure,git,react,vscode,github&perline=10" />
-
-<br/><br/>
 
 </div>
 
@@ -153,6 +146,13 @@ I design and build intelligent, real-world AI systems — from **agentic pipelin
 📊 Analytics     →  Power BI | Pandas | Matplotlib | Seaborn | Plotly
 🛠️ Dev Tools     →  Git | GitHub | Jupyter | PyCharm | VS Code
 ```
+
+<br/><br/>
+
+<!-- Tech Stack Quick Icons -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,mongodb,azure,git,react,vscode,github&perline=10" />
+
+<br/><br/>
 
 ---
 
