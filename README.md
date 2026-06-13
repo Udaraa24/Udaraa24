@@ -2,7 +2,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62,3bb1f6&height=230&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3E%20AI%20%Enthusiast&descAlignY=60&descSize=18&descColor=b3e3fd&bg_color=dff5fe&stroke=3bb1f6&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=065a8a,3bb1f6&height=230&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3E%20AI%20%Enthusiast&descAlignY=60&descSize=18&descColor=b3e3fd&bg_color=dff5fe&stroke=3bb1f6&strokeWidth=1" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=3bb1f6&center=true&vCenter=true&width=900&lines=Building+end-to-end+AI+systems+%E2%80%94+from+data+and+models+to+intelligent%2C+production-ready+applications+%F0%9F%9A%80)](https://git.io/typing-svg)
