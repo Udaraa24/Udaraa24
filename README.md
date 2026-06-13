@@ -1,10 +1,11 @@
+
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3bb1f6,076090&height=220&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Enthusiast&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62,3bb1f6&height=230&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3E%20AI%20%Enthusiast&descAlignY=60&descSize=18&descColor=b3e3fd&bg_color=dff5fe&stroke=3bb1f6&strokeWidth=1" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3bb1f6&center=true&vCenter=true&width=780&lines=Hey+there%2C+I'm+Udara+Bandara+👋;AI+%2F+ML+Engineer+%7C+Sri+Lanka+🇱🇰;Agentic+AI+%7C+LLMs+%7C+Voice+Automation;Open+to+Full-Time+AI+%2F+ML+Roles+🚀;Let's+Build+Something+Intelligent+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=3bb1f6&center=true&vCenter=true&width=900&lines=Building+end-to-end+AI+systems+%E2%80%94+from+data+and+models+to+intelligent%2C+production-ready+applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +23,7 @@
 <!-- Info Badges -->
 ![Location](https://img.shields.io/badge/📍_Sri_Lanka-3bb1f6?style=flat-square)
 &nbsp;&nbsp;
-![University](https://img.shields.io/badge/🎓_University_of_Moratuwa-0a6fa8?style=flat-square)
+![University](https://img.shields.io/badge/🎓_University_of_Moratuwa-GPA-0a6fa8?style=flat-square)
 &nbsp;&nbsp;
 ![Degree](https://img.shields.io/badge/🤖_B.Sc._Hons-Artificial_Intelligence-7ecef9?style=flat-square)
 
@@ -66,6 +67,19 @@ I design and build intelligent, real-world AI systems — from **agentic pipelin
 [![GitHub Streak](https://streak-stats.demolab.com?user=Udaraa24&hide_border=true&background=dff5fe&ring=3bb1f6&fire=7ecef9&currStreakLabel=0a6fa8&sideLabels=0a6fa8&currStreakNum=3bb1f6&sideNums=3bb1f6&dates=b3e3fd)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+### 🔥 What I've Built
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎙️ [**MediHope Voice Agent**](https://github.com/Udaraa24/medihope-voice-agent) | Real-time AI telephony system for clinic appointment management. Handles inbound calls, schedules appointments, and sends SMS confirmations autonomously. | Python, Twilio, Deepgram STT/TTS, FastAPI, LLM Tool Calling, WebSockets |
+| ✈️ [**Stumblepanni**](https://github.com/Udaraa24/stumblepanni) | AI-powered tourism web app for Sri Lanka with trip planning, visa application, and virtual local guides. | React Native, MongoDB, FastAPI, RAG, ML |
+| 🏢 [**Intelligent HCM System**](https://github.com/Udaraa24) | Smart HR features for IFS including an AI chatbot, CV parsing & matching model, leave prediction, and benefits management. | spaCy, Sentence Transformers, Gensim, React, FastAPI, MongoDB |
 
 ---
 
