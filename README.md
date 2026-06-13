@@ -18,7 +18,7 @@
 <!-- About Me -->
 ## 🧠 About Me
 
-```python
+python
 class UdaraBandara:
     def __init__(self):
         self.name        = "Udara Bandara"
@@ -40,7 +40,7 @@ class UdaraBandara:
 
 me = UdaraBandara()
 me.say_hi()
-```
+
 
 ---
 
