@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3bb1f6,076090&height=220&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3bb1f6,076090&height=220&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20Enthusiast&descAlignY=62&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3bb1f6&center=true&vCenter=true&width=780&lines=Hey+there%2C+I'm+Udara+Bandara+👋;AI+%2F+ML+Engineer+%7C+Sri+Lanka+🇱🇰;Agentic+AI+%7C+LLMs+%7C+Voice+Automation;Open+to+Full-Time+AI+%2F+ML+Roles+🚀;Let's+Build+Something+Intelligent+Together!)](https://git.io/typing-svg)
