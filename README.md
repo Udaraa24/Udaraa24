@@ -1,11 +1,10 @@
-
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=065a8a,3bb1f6&height=230&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3E%20AI%20%Enthusiast&descAlignY=60&descSize=18&descColor=b3e3fd&bg_color=dff5fe&stroke=3bb1f6&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0a6fa8,3bb1f6,7ecef9&height=250&section=header&text=Udara%20Bandara&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18&descColor=b3e3fd&stroke=3bb1f6&strokeWidth=2" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=3bb1f6&center=true&vCenter=true&width=900&lines=Building+end-to-end+AI+systems+%E2%80%94+from+data+and+models+to+intelligent%2C+production-ready+applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing Animation — 2 turns, fully visible -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=3000&color=3bb1f6&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Building+end-to-end+AI+systems+%E2%80%94+from+data+%26+models+to+production+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+Voice+Automation+%7C+Intelligent+Business+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +22,7 @@
 <!-- Info Badges -->
 ![Location](https://img.shields.io/badge/📍_Sri_Lanka-3bb1f6?style=flat-square)
 &nbsp;&nbsp;
-![University](https://img.shields.io/badge/🎓_University_of_Moratuwa-GPA-0a6fa8?style=flat-square)
+![University](https://img.shields.io/badge/🎓_University_of_Moratuwa-0a6fa8?style=flat-square)
 &nbsp;&nbsp;
 ![Degree](https://img.shields.io/badge/🤖_B.Sc._Hons-Artificial_Intelligence-7ecef9?style=flat-square)
 
@@ -56,15 +55,15 @@ I design and build intelligent, real-world AI systems — from **agentic pipelin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Udaraa24&show_icons=true&hide_border=true&bg_color=dff5fe&title_color=3bb1f6&icon_color=7ecef9&text_color=065a8a&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Udaraa24&show_icons=true&hide_border=true&bg_color=020d18&title_color=3bb1f6&icon_color=7ecef9&text_color=b3e3fd&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaraa24&layout=compact&hide_border=true&bg_color=dff5fe&title_color=3bb1f6&text_color=065a8a&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaraa24&layout=compact&hide_border=true&bg_color=020d18&title_color=3bb1f6&text_color=b3e3fd&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Udaraa24&hide_border=true&background=dff5fe&ring=3bb1f6&fire=7ecef9&currStreakLabel=0a6fa8&sideLabels=0a6fa8&currStreakNum=3bb1f6&sideNums=3bb1f6&dates=b3e3fd)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Udaraa24&hide_border=true&background=020d18&ring=3bb1f6&fire=7ecef9&currStreakLabel=3bb1f6&sideLabels=7ecef9&currStreakNum=ffffff&sideNums=ffffff&dates=b3e3fd)](https://git.io/streak-stats)
 
 </div>
 
@@ -142,13 +141,23 @@ I design and build intelligent, real-world AI systems — from **agentic pipelin
 🛠️ Dev Tools     →  Git | GitHub | Jupyter | PyCharm | VS Code
 ```
 
-<!-- Tech Stack Quick Icons — row 1: AI/ML · Backend · Cloud  |  row 2: Voice · Dev Tools -->
 <div align="center">
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,mongodb,mysql,azure&perline=7" />
 <br/>
 <img src="https://skillicons.dev/icons?i=twilio,git,github,vscode,pycharm,jupyter&perline=7" />
 <br/><br/>
+</div>
+
+---
+
+<!-- Activity Graph -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Udara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Udaraa24&bg_color=020d18&color=3bb1f6&line=3bb1f6&point=ffffff&area=true&area_color=0a6fa8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
@@ -164,6 +173,4 @@ I design and build intelligent, real-world AI systems — from **agentic pipelin
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=076090,3bb1f6&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0a6fa8,3bb1f6,7ecef9&height=120&section=footer&stroke=3bb1f6&strokeWidth=2" width="100%"/>
